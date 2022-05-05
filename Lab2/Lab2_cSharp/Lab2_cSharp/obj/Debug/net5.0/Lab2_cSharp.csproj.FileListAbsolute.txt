@@ -1,0 +1,16 @@
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\bin\Debug\net5.0\Lab2_cSharp.exe
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\bin\Debug\net5.0\Lab2_cSharp.deps.json
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\bin\Debug\net5.0\Lab2_cSharp.runtimeconfig.json
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\bin\Debug\net5.0\Lab2_cSharp.runtimeconfig.dev.json
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\bin\Debug\net5.0\Lab2_cSharp.dll
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\bin\Debug\net5.0\ref\Lab2_cSharp.dll
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\bin\Debug\net5.0\Lab2_cSharp.pdb
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\obj\Debug\net5.0\Lab2_cSharp.csproj.AssemblyReference.cache
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\obj\Debug\net5.0\Lab2_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\obj\Debug\net5.0\Lab2_cSharp.AssemblyInfoInputs.cache
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\obj\Debug\net5.0\Lab2_cSharp.AssemblyInfo.cs
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\obj\Debug\net5.0\Lab2_cSharp.csproj.CoreCompileInputs.cache
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\obj\Debug\net5.0\Lab2_cSharp.dll
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\obj\Debug\net5.0\ref\Lab2_cSharp.dll
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\obj\Debug\net5.0\Lab2_cSharp.pdb
+D:\Study\CODE\C#\Lab2_cSharp\Lab2_cSharp\obj\Debug\net5.0\Lab2_cSharp.genruntimeconfig.cache
