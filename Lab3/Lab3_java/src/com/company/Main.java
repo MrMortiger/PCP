@@ -1,13 +1,21 @@
 package com.company;
 
 import java.lang.*;
+import java.util.Scanner;
 
 public class Main {
 
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter storage size: ");
+        int storageSize = sc.nextInt();
+        System.out.println("Enter itemNumbers: ");
+        int itemNumbers = sc.nextInt();
+
         Main main = new Main();
-        int storageSize = 3;
-        int itemNumbers = 20;
+
+        sc.close();
+
         main.starter(storageSize, itemNumbers, 2, 5);
     }
     private void starter(int storageSize, int itemNumbers, int producers, int consumers) {
