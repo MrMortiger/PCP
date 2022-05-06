@@ -27,7 +27,7 @@ public class MainThread extends Thread{
                 "id - %d, " +
                 "the number of sequence elements used - %d, " +
                 "sum - %d\n",
-                id, count, sum);
+                (id + 1), count, sum);
     }
 
 }
